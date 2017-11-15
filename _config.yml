@@ -5,7 +5,8 @@ description: >  # this means to ignore newlines until "baseurl:"
   California State University Fullerton Students
 twitter_username: #
 github_username:  CSUFDataVizClub
-
+url: https://datavizclub.github.io
+github                   : [metadata]
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
