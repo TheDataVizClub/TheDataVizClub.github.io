@@ -1,2 +1,1 @@
-# DataVizClub.github.io
-Website Platform for Data visualization club
+Master Readme File
