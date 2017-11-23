@@ -1,3 +1,4 @@
-child/
 _site
-.gitignore
+.sass-cache
+Gemfile.lock
+*.gem
