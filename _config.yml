@@ -1,16 +1,64 @@
-title                    : "Data Visualization" 
-author                   : "CSUF Data Viz Club"
-your-email               : #your-email@domain.com
-description              : "California State University Fullerton Students"
-github_username          : CSUFDataVizClub
-url                      : https://datavizclub.github.io
-repository               : datavizclub/datavizclub.github.io
 
+
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
+locale                   : en_US
+title                    : "Data Visualization" 
+title_separator          : "-"
+description              : "Learn the science behind learning tools"
+title_separator          : "-"
+teaser                   : "/assets/images/Data-Visualization.png"
+description              : "California State University Fullerton Students"
+url                      : https://Thedatavizclub.github.io
+repository               : Thedatavizclub/Thedatavizclub.github.io
+breadcrumbs              : true # true, false (default)
+words_per_minute         : 150
 github                   : [metadata]
-google_analytics         : "UA-109687303-1"
+
+analytics:
+  provider               : "google" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :  "UA-109687303-1"
+
 
 minima.date_format       : "%b %-d, %Y"
 
+social:
+  type                   : Organization 
+  name                   : Data Visualization @CSU Fullerton
+  links: 
+
+
+author:
+  name             : "Data Visualization Club @CSU Fullerton"
+  avatar           : #""
+  bio              : ""
+  location         : "Fullerton, California"
+  email            : dvc@fullerton.edu
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : 
+  foursquare       :
+  github           : Thedatavizclub
+  google_plus      : 
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : 
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
@@ -103,6 +151,41 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      comments: false
+  # _foo
+  - scope:
+      path: ""
+      type: foo
+    values:
+      layout: single
+      author_profile: true
+      comments: false
 
 show_calendar: true
-theme: jekyll-theme-architect

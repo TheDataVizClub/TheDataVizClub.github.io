@@ -1,6 +1,368 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-25T18:16:07-08:00</updated><id>http://localhost:4000/</id><title type="html">Data Visualization</title><subtitle>California State University Fullerton Students</subtitle><author><name>CSUF Data Viz Club</name></author><entry><title type="html">Evolution Of Vizs</title><link href="http://localhost:4000/Evolution-of-Vizs/" rel="alternate" type="text/html" title="Evolution Of Vizs" /><published>2017-11-14T00:00:00-08:00</published><updated>2017-11-14T00:00:00-08:00</updated><id>http://localhost:4000/Evolution-of-Vizs</id><content type="html" xml:base="http://localhost:4000/Evolution-of-Vizs/">&lt;p&gt;The journey starts with statisticians and mathematicians and physicists. But, it does not end there.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-08T15:31:22-08:00</updated><id>http://localhost:4000/</id><title type="html">Data Visualization</title><subtitle>California State University Fullerton Students</subtitle><author><name>Data Visualization Club @CSU Fullerton</name><email>dvc@fullerton.edu</email></author><entry><title type="html">R Graphing References</title><link href="http://localhost:4000/R-Graphing-References/" rel="alternate" type="text/html" title="R Graphing References" /><published>2017-12-08T00:00:00-08:00</published><updated>2017-12-08T00:00:00-08:00</updated><id>http://localhost:4000/R-Graphing-References</id><content type="html" xml:base="http://localhost:4000/R-Graphing-References/">&lt;p&gt;Michelle (Collura) Ouellette
+December 8, 2017&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;base-plots&quot;&gt;Base Plots:&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://www.statmethods.net/advgraphs/parameters.html&quot;&gt;https://www.statmethods.net/advgraphs/parameters.html&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;General graphing parameters (used by function &lt;em&gt;par&lt;/em&gt;() among other functions)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://www.statmethods.net/advgraphs/layout.html&quot;&gt;https://www.statmethods.net/advgraphs/layout.html&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Combining Plots into one window (not overlapping them)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Uses functions &lt;em&gt;par&lt;/em&gt;(), &lt;em&gt;layout&lt;/em&gt;()&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;other-plots&quot;&gt;Other Plots:&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html&quot;&gt;https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Uses and customization for the function &lt;em&gt;corrplot&lt;/em&gt;()&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://ase.tufts.edu/bugs/guide/assets/R%20Graphics%20Cookbook.pdf&quot;&gt;https://ase.tufts.edu/bugs/guide/assets/R%20Graphics%20Cookbook.pdf&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;R Graphics Cookbook (Textbook)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://google.github.io/styleguide/Rguide.xml&quot;&gt;https://google.github.io/styleguide/Rguide.xml&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Google’s R Style Guide&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://www.sthda.com/english/wiki/factoextra-r-package-easy-multivariate-data-analyses-and-elegant-visualization&quot;&gt;http://www.sthda.com/english/wiki/factoextra-r-package-easy-multivariate-data-analyses-and-elegant-visualization&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Package &lt;em&gt;factoextra&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;ggplot&quot;&gt;ggplot:&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf&quot;&gt;https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cheatsheet - basic layers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://ggplot2.tidyverse.org/reference/&quot;&gt;http://ggplot2.tidyverse.org/reference/&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;ggplot basics and function reference&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;geom layers&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;stat layers&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;position adjustment layers&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;annotations layers&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;aesthetics layers&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;scale layers&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;axes and legends&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;facetting and facetting layers&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;coordinate systems&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;themes&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;programming with ggplot2&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;vector helpers&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;built in datasets&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;autoplot and fortify&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://sape.inf.usi.ch/quick-reference/ggplot2/colour&quot;&gt;http://sape.inf.usi.ch/quick-reference/ggplot2/colour&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;quick reference for colors in ggplot2&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;predefined colour names&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://www.cookbook-r.com/Graphs/&quot;&gt;http://www.cookbook-r.com/Graphs/&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;various graphs you can make with ggplot2 with options for customization&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;bar, line, distributions, scatterplots&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;titles, axes, legends, lines, facets, multiple graphs on one page, colors&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/#manually-adding-legend-items-guides-override.aes&quot;&gt;http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/#manually-adding-legend-items-guides-override.aes&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;cheatsheet for customizing graphics and legends for ggplot2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://github.com/tidyverse/ggplot2/wiki/Legend-Attributes&quot;&gt;https://github.com/tidyverse/ggplot2/wiki/Legend-Attributes&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;legend basics for ggplot2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://www.cookbook-r.com/Graphs/Legends_(ggplot2)/#changing-the-order-of-items-in-the-legend&quot;&gt;http://www.cookbook-r.com/Graphs/Legends_(ggplot2)/#changing-the-order-of-items-in-the-legend&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;legend customization in ggplot2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://ggplot2.tidyverse.org/reference/theme.html&quot;&gt;http://ggplot2.tidyverse.org/reference/theme.html&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;modifying components of a theme in ggplot2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://stackoverflow.com/questions/2359723/how-to-add-a-title-to-a-ggplot-when-the-title-is-a-variable-name&quot;&gt;https://stackoverflow.com/questions/2359723/how-to-add-a-title-to-a-ggplot-when-the-title-is-a-variable-name&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Using a variable value in a title for ggplot2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://learnr.files.wordpress.com/2009/08/latbook.pdf&quot;&gt;https://learnr.files.wordpress.com/2009/08/latbook.pdf&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;using lattice for multivariate data visualization with ggplot2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://ggplot2.tidyverse.org/reference/geom_density.html&quot;&gt;http://ggplot2.tidyverse.org/reference/geom_density.html&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;arguments and aesthetics for &lt;em&gt;geomdensity&lt;/em&gt;() and &lt;em&gt;statdensity&lt;/em&gt;()&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://t-redactyl.io/blog/2016/02/creating-plots-in-r-using-ggplot2-part-7-histograms.html&quot;&gt;http://t-redactyl.io/blog/2016/02/creating-plots-in-r-using-ggplot2-part-7-histograms.html&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;histograms in ggplot2 with customization options&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://www.cookbook-r.com/Graphs/Plotting_means_and_error_bars_(ggplot2)/&quot;&gt;http://www.cookbook-r.com/Graphs/Plotting_means_and_error_bars_(ggplot2)/&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;plotting means and error bars in ggplot2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://ggplot2.tidyverse.org/reference/geom_boxplot.html&quot;&gt;http://ggplot2.tidyverse.org/reference/geom_boxplot.html&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;arguments and aesthetics for box and whisker plots in ggplot2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://plot.ly/ggplot2/box-plots/&quot;&gt;https://plot.ly/ggplot2/box-plots/&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;boxplot customization in ggplot2&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Uses function &lt;em&gt;geomboxplot&lt;/em&gt;()&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://stackoverflow.com/questions/14604439/plot-multiple-boxplot-in-one-graph&quot;&gt;https://stackoverflow.com/questions/14604439/plot-multiple-boxplot-in-one-graph&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;plotting multiple boxplots in one graph&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://rpubs.com/danmirman/plotting_factor_analysis&quot;&gt;https://rpubs.com/danmirman/plotting_factor_analysis&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;plotting factor analysis results in ggplot2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://rstudio-pubs-static.s3.amazonaws.com/3365_9573f6d661b444499365fe1841ee65d3.html&quot;&gt;http://rstudio-pubs-static.s3.amazonaws.com/3365_9573f6d661b444499365fe1841ee65d3.html&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;plotting functions in ggplot2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://stackoverflow.com/questions/31079210/how-can-i-add-annotations-below-the-x-axis-in-ggplot2&quot;&gt;https://stackoverflow.com/questions/31079210/how-can-i-add-annotations-below-the-x-axis-in-ggplot2&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;adding annotations below a graph in ggplot2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2)/&quot;&gt;http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2)/&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;plotting distributions using histograms, density plots, and box plots in ggplot2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://t-redactyl.io/blog/2016/03/creating-plots-in-r-using-ggplot2-part-9-function-plots.html&quot;&gt;http://t-redactyl.io/blog/2016/03/creating-plots-in-r-using-ggplot2-part-9-function-plots.html&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;function plots in ggplot2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://www.sthda.com/english/wiki/ggplot2-colors-how-to-change-colors-automatically-and-manually&quot;&gt;http://www.sthda.com/english/wiki/ggplot2-colors-how-to-change-colors-automatically-and-manually&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;changing plot colors automatically and manually in ggplot2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://cran.r-project.org/web/packages/ggfortify/vignettes/plot_pca.html&quot;&gt;https://cran.r-project.org/web/packages/ggfortify/vignettes/plot_pca.html&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;plotting PCA in ggplot2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://www.sthda.com/english/wiki/ggfortify-extension-to-ggplot2-to-handle-some-popular-packages-r-software-and-data-visualization#diagnostic-plots-with-generalized-linear-models-glm&quot;&gt;http://www.sthda.com/english/wiki/ggfortify-extension-to-ggplot2-to-handle-some-popular-packages-r-software-and-data-visualization#diagnostic-plots-with-generalized-linear-models-glm&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;diagnostic plots for GLMS.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Uses function &lt;em&gt;autoplot&lt;/em&gt;() and library &lt;em&gt;ggfortify&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://stackoverflow.com/questions/31185522/q-ggbiplot-foreground-arrows-change-arrow-color&quot;&gt;https://stackoverflow.com/questions/31185522/q-ggbiplot-foreground-arrows-change-arrow-color&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;adjusting layer order in ggplot2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://stackoverflow.com/questions/25995173/specifying-colour-transparency-and-position-of-arrows-line-segments-in-ggbipl&quot;&gt;https://stackoverflow.com/questions/25995173/specifying-colour-transparency-and-position-of-arrows-line-segments-in-ggbipl&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;changing color, transparency, and position of arrows in PCA using function &lt;em&gt;ggbiplot&lt;/em&gt;()&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;color&quot;&gt;Color:&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://www.rapidtables.com/web/color/RGB_Color.html&quot;&gt;https://www.rapidtables.com/web/color/RGB_Color.html&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Provides RGB Color Codes with a variety of methods to choose the color&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Provides Hex #, RGB #s, Calculations&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://www.dataanalytics.org.uk/Data%20Analysis/TipsAndTricks/TTR-20150531.htm&quot;&gt;http://www.dataanalytics.org.uk/Data%20Analysis/TipsAndTricks/TTR-20150531.htm&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;How to make colors transparent (using your own function)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Uses functions &lt;em&gt;rgb&lt;/em&gt;(), &lt;em&gt;col2rgb&lt;/em&gt;()&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://www.color-hex.com/&quot;&gt;http://www.color-hex.com/&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hex Color Codes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://cran.r-project.org/web/packages/colorspace/vignettes/hcl-colors.pdf&quot;&gt;https://cran.r-project.org/web/packages/colorspace/vignettes/hcl-colors.pdf&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HCL-Based Color Palettes in R&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://stat.ethz.ch/R-manual/R-devel/library/grDevices/html/palettes.html&quot;&gt;https://stat.ethz.ch/R-manual/R-devel/library/grDevices/html/palettes.html&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Color Palettes&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;References functions &lt;em&gt;rainbow&lt;/em&gt;(), &lt;em&gt;heat.colors&lt;/em&gt;(), &lt;em&gt;terrain.colors&lt;/em&gt;(), &lt;em&gt;topo.colors&lt;/em&gt;(), &lt;em&gt;cm.colors&lt;/em&gt;()&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://sape.inf.usi.ch/quick-reference/ggplot2/colour&quot;&gt;http://sape.inf.usi.ch/quick-reference/ggplot2/colour&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;quick reference for colors in ggplot2&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;predefined colour names&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;http://www.sthda.com/english/wiki/ggplot2-colors-how-to-change-colors-automatically-and-manually&quot;&gt;http://www.sthda.com/english/wiki/ggplot2-colors-how-to-change-colors-automatically-and-manually&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;changing plot colors automatically and manually in ggplot2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[&lt;a href=&quot;https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf&quot;&gt;https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;R Color Cheatsheet&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Uses a variety of functions for baseplot graphs and ggplot graphs&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Data Visualization Club @CSU Fullerton</name><email>dvc@fullerton.edu</email></author><summary type="html"></summary></entry><entry><title type="html">Evolution Of Vizs</title><link href="http://localhost:4000/Evolution-of-Vizs/" rel="alternate" type="text/html" title="Evolution Of Vizs" /><published>2017-11-14T00:00:00-08:00</published><updated>2017-11-14T00:00:00-08:00</updated><id>http://localhost:4000/Evolution-of-Vizs</id><content type="html" xml:base="http://localhost:4000/Evolution-of-Vizs/">&lt;p&gt;The journey starts with statisticians and mathematicians and physicists. But, it does not end there.&lt;/p&gt;
 
 &lt;p&gt;Check out the roots of this journey, where beautiful charts became the convincing factor in a debate with queen Elizabeth to when the first African American Ph.D. generated such advance charts that awe us still.&lt;/p&gt;
 
 &lt;p&gt;W.E.B. Du Bois’s Little-Known, Arresting Modernist Data Visualizations of Black Life for the World’s Fair of 1900.
-&lt;a href=&quot;https://www.brainpickings.org/2017/10/09/w-e-b-du-bois-diagrams/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Bab%2F62tGDTVSFvOtEvgtiSg%3D%3D&quot;&gt;1900 Graphs&lt;/a&gt;&lt;/p&gt;</content><author><name>CSUF Data Viz Club</name></author><summary type="html">The journey starts with statisticians and mathematicians and physicists. But, it does not end there.</summary></entry></feed>
+&lt;a href=&quot;https://www.brainpickings.org/2017/10/09/w-e-b-du-bois-diagrams/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Bab%2F62tGDTVSFvOtEvgtiSg%3D%3D&quot;&gt;1900 Graphs&lt;/a&gt;&lt;/p&gt;</content><author><name>Data Visualization Club @CSU Fullerton</name><email>dvc@fullerton.edu</email></author><summary type="html">The journey starts with statisticians and mathematicians and physicists. But, it does not end there.</summary></entry></feed>
