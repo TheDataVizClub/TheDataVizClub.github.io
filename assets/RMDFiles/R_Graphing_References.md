@@ -1,4 +1,5 @@
 ---
+layout: single
 excerpt: Some good references
 ---
 
