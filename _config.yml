@@ -15,6 +15,7 @@ repository               : Thedatavizclub/Thedatavizclub.github.io
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 150
 github                   : [metadata]
+show_calendar            : true
 
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
@@ -93,7 +94,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
@@ -179,6 +179,8 @@ defaults:
       layout: single
       author_profile: true
       comments: false
+      sidebar:
+        nav: "docs"
   # _foo
   - scope:
       path: ""
@@ -188,4 +190,3 @@ defaults:
       author_profile: true
       comments: false
 
-show_calendar: true

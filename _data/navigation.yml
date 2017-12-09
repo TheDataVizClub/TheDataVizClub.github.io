@@ -4,7 +4,24 @@ main:
     url: /about/
   - title: "Search"
     url: /search/
+  - title: "Contacts"
+    url: /contacts/
     
+
+docs:
+  - title: Calendar
+    url: /calendar/
+  - title: References
+    children: 
+      - title: R base plots
+        url: /docs/Rbase/
+      - title: R ggplots
+        url: /docs/ggplot/
+      - title: R plot color
+        url: /docs/color/
+      - title: R other plots
+        url: /docs/OtherPlots/
+
   #- title: "CSUF DataVizClub"
   #  url: https://csufdatavizclub.github.io
   # - title: "Posts"
