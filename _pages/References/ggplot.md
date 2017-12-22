@@ -6,8 +6,11 @@ toc_label: "Table of Contents"
 toc_icon: "gear"
 ---
 
+ggplot or grammar of graphics plots, is built for making profressional looking, plots quickly with minimal code.
 
-# General
+![](/assets/images/ggplot2.png)
+
+## General
 
 
 \[<https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf>\]
@@ -47,7 +50,7 @@ toc_icon: "gear"
 -   autoplot and fortify
 
 
-# Colors
+## Colors
 
 \[<http://sape.inf.usi.ch/quick-reference/ggplot2/colour>\]
 
@@ -63,7 +66,7 @@ toc_icon: "gear"
 
 -   titles, axes, legends, lines, facets, multiple graphs on one page, colors
 
-# Legends
+## Legends
 
 \[<http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/#manually-adding-legend-items-guides-override.aes>\]
 
@@ -78,7 +81,7 @@ toc_icon: "gear"
 -   legend customization in ggplot2
 
 
-# Themes
+## Themes
 
 \[<http://ggplot2.tidyverse.org/reference/theme.html>\]
 
@@ -88,7 +91,7 @@ toc_icon: "gear"
 
 -   Using a variable value in a title for ggplot2
 
-# Multivariate Analysis
+## Multivariate Analysis
 
 \[<https://learnr.files.wordpress.com/2009/08/latbook.pdf>\]
 
