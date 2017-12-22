@@ -7,8 +7,8 @@ toc_icon: "gear"
 ---
 
 
-General
-=======
+# General
+
 
 \[<https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf>\]
 
@@ -47,8 +47,7 @@ General
 -   autoplot and fortify
 
 
-Colors
-=====
+# Colors
 
 \[<http://sape.inf.usi.ch/quick-reference/ggplot2/colour>\]
 
@@ -64,8 +63,7 @@ Colors
 
 -   titles, axes, legends, lines, facets, multiple graphs on one page, colors
 
-Legends
-===
+# Legends
 
 \[<http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/#manually-adding-legend-items-guides-override.aes>\]
 
@@ -80,8 +78,7 @@ Legends
 -   legend customization in ggplot2
 
 
-Themes
-====
+# Themes
 
 \[<http://ggplot2.tidyverse.org/reference/theme.html>\]
 
@@ -91,8 +88,7 @@ Themes
 
 -   Using a variable value in a title for ggplot2
 
-Multivariate Analysis
-=========================
+# Multivariate Analysis
 
 \[<https://learnr.files.wordpress.com/2009/08/latbook.pdf>\]
 
