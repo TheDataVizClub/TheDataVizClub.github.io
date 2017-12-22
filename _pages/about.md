@@ -9,6 +9,8 @@ header:
 permalink: /about/
 ---
 
+![](/assets/images/DVCLogo.jpg)
+
 We are a collective of students, trying to evolve in our respective fields in 
 a world that is more visual than ever. Sometimes, **TEXT** does not cut it anymore. We 
 are here to help anyone who is interested in the art and science of data visualization, 

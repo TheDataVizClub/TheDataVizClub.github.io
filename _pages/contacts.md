@@ -19,14 +19,18 @@ feature_row:
   - image_path: assets/images/Officers/Randall.png
     title: "Randall Moya"
     excerpt: "President"
+    url: /contacts/randy
+    btn_labl: "ReadMore"
+    btn_class: "btn--primary"
   - image_path: assets/images/Officers/Michelle.png
     title: "Michelle Ouellette"
     excerpt: "Vice President"
-
-feature_row1:
-  - image_path: assets/images/Officers/Meghan.png
+  - image_path: assets/images/Officers/Meghan.jpg
     title: "Meghan Rice"
     excerpt: "Secretary/Treasurer"
+    url: /contacts/meghan
+    btn_labl: "ReadMore"
+    btn_class: "btn--primary"
 
 ---
 
@@ -34,5 +38,5 @@ feature_row1:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row1" type="center" %}
-
+<!-- {% include feature_row id="feature_row1" type="center" %}
+ -->

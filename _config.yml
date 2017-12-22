@@ -33,7 +33,7 @@ social:
 
 author:
   name             : "Data Visualization Club @CSU Fullerton"
-  avatar           : #""
+  avatar           : "/assets/images/DVCLogo.jpg"
   bio              : ""
   location         : "Fullerton, California"
   email            : dvc@fullerton.edu

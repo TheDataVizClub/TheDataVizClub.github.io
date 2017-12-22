@@ -2,8 +2,13 @@
 title: "Working with ggplots in R"
 permalink: /docs/ggplot/
 toc: true
+toc_label: "Table of Contents"
+toc_icon: "gear"
 ---
 
+
+General
+=======
 
 \[<https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf>\]
 
@@ -41,6 +46,10 @@ toc: true
 
 -   autoplot and fortify
 
+
+Colors
+=====
+
 \[<http://sape.inf.usi.ch/quick-reference/ggplot2/colour>\]
 
 -   quick reference for colors in ggplot2
@@ -55,6 +64,9 @@ toc: true
 
 -   titles, axes, legends, lines, facets, multiple graphs on one page, colors
 
+Legends
+===
+
 \[<http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/#manually-adding-legend-items-guides-override.aes>\]
 
 -   cheatsheet for customizing graphics and legends for ggplot2
@@ -67,6 +79,10 @@ toc: true
 
 -   legend customization in ggplot2
 
+
+Themes
+====
+
 \[<http://ggplot2.tidyverse.org/reference/theme.html>\]
 
 -   modifying components of a theme in ggplot2
@@ -74,6 +90,9 @@ toc: true
 \[<https://stackoverflow.com/questions/2359723/how-to-add-a-title-to-a-ggplot-when-the-title-is-a-variable-name>\]
 
 -   Using a variable value in a title for ggplot2
+
+Multivariate Analysis
+=========================
 
 \[<https://learnr.files.wordpress.com/2009/08/latbook.pdf>\]
 

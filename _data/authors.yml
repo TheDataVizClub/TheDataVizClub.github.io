@@ -1,0 +1,21 @@
+# /_data/authors.yml
+
+Taha:
+  name: "Taha Monfared"
+  url: "https://tahamonfared.github.io"
+  avatar: "/assets/images/Officers/Taha.jpg"
+
+Randy:
+  name: "Randall Moya"
+  bio: "/contacts/randy"
+  avatar: "/assets/images/Officers/Randy.png"
+
+Meghan:
+  name: "Meghan Rice"
+  bio: "/contacts/meghan"
+  avatar: "/assets/images/Officers/Meghan.jpg"
+
+Michelle:
+  name: "Michelle Ouellette"
+  avatar: "/assets/images/Officers/Michelle.jpg"
+
