@@ -4,7 +4,7 @@ title: The Data Visualization Club @CSU Fullerton
 header:
   overlay_color: "#000"
   overlay_filter: rgba(0,255 , 0, 0.5)
-  overlay_image: /assets/images/epscharts1.jpg
+  overlay_image: /assets/images/Teaser.jpg
 
 permalink: /about/
 ---
