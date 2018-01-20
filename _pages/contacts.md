@@ -5,7 +5,7 @@ title: "Who we are"
 header:
   overlay_color: "#000"
   overlay_filter: rgba(255, 0, 0, 0.5)
-  overlay_image: /assets/images/Data-Visualization.png
+  overlay_image: /assets/images/DVCLogo/Teaser.JPG
   cta_label: "About"
   cta_url: /about/
 
@@ -24,6 +24,9 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: assets/images/Officers/Michelle.png
     title: "Michelle Ouellette"
+    url: /contacts/michelle
+    btn_labl: "ReadMore"
+    btn_class: "btn--primary"
     excerpt: "Vice President"
   - image_path: assets/images/Officers/Meghan.jpg
     title: "Meghan Rice"
