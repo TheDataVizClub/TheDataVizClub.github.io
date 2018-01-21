@@ -6,7 +6,8 @@ main:
     url: /search/
   - title: "Contacts"
     url: /contacts/
-    
+  - title: "Sample Plots"
+    url: /portfolio/  
 
 docs:
   - title: Calendar

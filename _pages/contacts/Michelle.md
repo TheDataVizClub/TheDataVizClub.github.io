@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /contacts/michelle
+permalink: /contacts/michelle/
 ---
 
 ![](/assets/images/Officers/Michelle.png)

@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /contacts/randy
+permalink: /contacts/randy/
 ---
 
 ![](/assets/images/Officers/Randall.png)

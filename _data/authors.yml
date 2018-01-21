@@ -7,15 +7,16 @@ Taha:
 
 Randy:
   name: "Randall Moya"
-  bio: "/contacts/randy"
-  avatar: "/assets/images/Officers/Randy.png"
+  bio: "DVC President"
+  avatar: "/assets/images/Officers/Randall.png"
 
 Meghan:
   name: "Meghan Rice"
-  bio: "/contacts/meghan"
+  bio: "DVC Treasurer/Secretary"
   avatar: "/assets/images/Officers/Meghan.jpg"
 
 Michelle:
   name: "Michelle Ouellette"
-  avatar: "/assets/images/Officers/Michelle.jpg"
+  bio: "DVC VicePresident"
+  avatar: "/assets/images/Officers/Michelle.png"
 

@@ -189,4 +189,17 @@ defaults:
       layout: single
       author_profile: true
       comments: false
+    # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
