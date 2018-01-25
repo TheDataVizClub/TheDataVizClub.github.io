@@ -16,6 +16,9 @@ a world that is more visual than ever. Sometimes, **TEXT** does not cut it anymo
 are here to help anyone who is interested in the art and science of data visualization, 
 and be helped to improve our work. 
 
+![About](/assets/Flyers/AboutDVC.png)
+
+
 **Special Thanks:**
 
 We would like to give credit for the design of the logo on our business cards, flyers and 
