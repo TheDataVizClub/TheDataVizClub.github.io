@@ -20,3 +20,8 @@ Michelle:
   bio: "DVC VicePresident"
   avatar: "/assets/images/Officers/Michelle.png"
 
+Kevin:
+  name: "Dr. Kevin Nichols"
+  bio: "DVC Faculty Advisor, Assistant Professor at CSUF"
+  avatar: "/assets/images/Officers/DrNichols.png"
+  url: "http://www.fullerton.edu/math/people/"
