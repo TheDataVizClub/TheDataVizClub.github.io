@@ -34,6 +34,12 @@ feature_row:
     url: /contacts/meghan
     btn_labl: "ReadMore"
     btn_class: "btn--primary"
+  - image_path: assets/images/Officers/Rico.jpg
+    title: "Rico Palafox"
+    excerpt: "Event Planner"
+    url: /contacts/Rico
+    btn_labl: "ReadMore"
+    btn_class: "btn--primary"
 
 ---
 
