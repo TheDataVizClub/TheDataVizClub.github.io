@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-15T21:21:09-07:00</updated><id>http://localhost:4000/</id><title type="html">Data Visualization</title><subtitle>California State University Fullerton Students</subtitle><author><name>Data Visualization Club @CSU Fullerton</name><email>dvc@fullerton.edu</email></author><entry><title type="html">R Graphing References</title><link href="http://localhost:4000/R-Graphing-References/" rel="alternate" type="text/html" title="R Graphing References" /><published>2017-12-08T00:00:00-07:00</published><updated>2017-12-08T00:00:00-07:00</updated><id>http://localhost:4000/R-Graphing-References</id><content type="html" xml:base="http://localhost:4000/R-Graphing-References/">&lt;p&gt;Michelle (Collura) Ouellette
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-15T22:24:30-07:00</updated><id>http://localhost:4000/</id><title type="html">Data Visualization</title><subtitle>California State University Fullerton Students</subtitle><author><name>Data Visualization Club @CSU Fullerton</name><email>dvc@fullerton.edu</email></author><entry><title type="html">R Graphing References</title><link href="http://localhost:4000/R-Graphing-References/" rel="alternate" type="text/html" title="R Graphing References" /><published>2017-12-08T00:00:00-07:00</published><updated>2017-12-08T00:00:00-07:00</updated><id>http://localhost:4000/R-Graphing-References</id><content type="html" xml:base="http://localhost:4000/R-Graphing-References/">&lt;p&gt;Michelle (Collura) Ouellette
 December 8, 2017&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -365,4 +365,45 @@ December 8, 2017&lt;/p&gt;
 &lt;p&gt;Check out the roots of this journey, where beautiful charts became the convincing factor in a debate with queen Elizabeth to when the first African American Ph.D. generated such advance charts that awe us still.&lt;/p&gt;
 
 &lt;p&gt;W.E.B. Du Bois’s Little-Known, Arresting Modernist Data Visualizations of Black Life for the World’s Fair of 1900.
-&lt;a href=&quot;https://www.brainpickings.org/2017/10/09/w-e-b-du-bois-diagrams/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Bab%2F62tGDTVSFvOtEvgtiSg%3D%3D&quot; class=&quot;btn btn--info&quot;&gt;1900 Graphs&lt;/a&gt;&lt;/p&gt;</content><author><name>Data Visualization Club @CSU Fullerton</name><email>dvc@fullerton.edu</email></author><summary type="html">Historical background of data visualization</summary></entry></feed>
+&lt;a href=&quot;https://www.brainpickings.org/2017/10/09/w-e-b-du-bois-diagrams/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Bab%2F62tGDTVSFvOtEvgtiSg%3D%3D&quot; class=&quot;btn btn--info&quot;&gt;1900 Graphs&lt;/a&gt;&lt;/p&gt;</content><author><name>Data Visualization Club @CSU Fullerton</name><email>dvc@fullerton.edu</email></author><summary type="html">Historical background of data visualization</summary></entry><entry><title type="html">Our Meetings On Video</title><link href="http://localhost:4000/Our-Meetings-On-Video/" rel="alternate" type="text/html" title="Our Meetings On Video" /><published>2017-03-15T00:00:00-07:00</published><updated>2017-03-15T00:00:00-07:00</updated><id>http://localhost:4000/Our-Meetings-On-Video</id><content type="html" xml:base="http://localhost:4000/Our-Meetings-On-Video/">&lt;p&gt;You can find our meeting recordings in the following adrress:
+&lt;a href=&quot;https://www.youtube.com/channel/UCDlit4Ipbq8oQmri5wE5wZg&quot; class=&quot;btn btn--success btn--large&quot;&gt;Our YouTube Channel&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2017-11-17
+Github&lt;/p&gt;
+
+&lt;!-- Courtesy of embedresponsively.com //--&gt;
+&lt;div class=&quot;responsive-video-container&quot;&gt;
+
+  &lt;iframe src=&quot;https://www.youtube.com/embed/d_FC23Tz6dU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;2018-02-16
+R WorkShop&lt;/p&gt;
+
+&lt;!-- Courtesy of embedresponsively.com //--&gt;
+&lt;div class=&quot;responsive-video-container&quot;&gt;
+
+  &lt;iframe src=&quot;https://www.youtube.com/embed/o1r9CWP0mjE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;2018-02-23
+RGuroo WorkShop&lt;/p&gt;
+
+&lt;!-- Courtesy of embedresponsively.com //--&gt;
+&lt;div class=&quot;responsive-video-container&quot;&gt;
+
+  &lt;iframe src=&quot;https://www.youtube.com/embed/C9BC-AmIFNk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;2018-03-09
+D3.JS&lt;/p&gt;
+
+&lt;!-- Courtesy of embedresponsively.com //--&gt;
+&lt;div class=&quot;responsive-video-container&quot;&gt;
+
+  &lt;iframe src=&quot;https://www.youtube.com/embed/gZb5rOs1wpw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;</content><author><name>Data Visualization Club @CSU Fullerton</name><email>dvc@fullerton.edu</email></author><summary type="html">Our meeting recordings</summary></entry></feed>
