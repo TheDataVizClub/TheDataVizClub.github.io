@@ -4,7 +4,7 @@ title: Los Angeles Crime 2010-2015 Visualization
 excerpt: CSUF preparation for DataFest 2018 
 author: Dwight
 header:
-  teaser: dwight_vis1/Battery exploration-1.png
+  teaser: portfolio/dwight_vis1/Batteryexploration.png
 ---
 
 March 6, 2018
@@ -118,7 +118,7 @@ ggplot(battery, aes(x = hr, y = ncrimes, color = Day)) + geom_line() +
   labs(title = "Crimes by Day and Hour - Battery", x = "Hour", y = "Number of Reported Crimes")
 ```
 
-![](dwight_vis1/Battery exploration-1.png)
+![](Batteryexploration.png)
 
 From this graphic, it's quite clear that during the week, battery tends to peak around 3 PM; on weekends, however, it spikes in the early morning. Let's compare it to petty theft:
 
@@ -133,7 +133,7 @@ ggplot(petty_theft, aes(x = hr, y = ncrimes, color = Day)) + geom_line() +
   labs(title = "Crimes by Day and Hour - Petty Theft", x = "Hour", y = "Number of Reported Crimes")
 ```
 
-![](dwight_vis1/Petty Theft exploration-1.png)
+![](PettyTheftexploration.png)
 
 There's a completely different pattern. Petty theft seems to spike on weekday mornings, and then again on Friday around 5:00-6:00 PM. For whatever reason, petty theft is consistently lowest on Sunday compared to any other day.
 
@@ -160,7 +160,7 @@ crime_plot + labs(title = "Crimes by Day and Hour",
   theme(panel.grid.minor = element_blank(), plot.title = element_text(hjust = 0.5))
 ```
 
-![](dwight_vis1/all crimes exploration 1-1.png)
+![](allcrimesexploration1-1.png)
 
 
 With some more work we can break apart those lines to observe the pattern over the entire week:
@@ -178,4 +178,4 @@ crime_plot2 + labs(x = "", y = "Number of Reported Crimes") +
         axis.ticks = element_blank())
 ```
 
-![](dwight_vis1/all crimes exploration 2-1.png)
+![](allcrimesexploration2-1.png)
