@@ -30,3 +30,9 @@ Hilary:
   name: "Hillary Aguirre"
   avatar: "/assets/images/Officers/HilaryAguirre.JPG"
   bio: "DVC member"
+
+Dwight:
+  name: "Dr. Dwight Wynne"
+  avatar: "/assets/images/Officers/DrWynne.png"
+  bio: "DVC Faculty Advisor, Full-Time Lecturer at CSUF"
+  url: "http://www.fullerton.edu/math/people/"
